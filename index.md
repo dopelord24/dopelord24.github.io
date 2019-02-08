@@ -8,6 +8,8 @@ test1
 test2
 # Header 3
 test3
+# Header 4
+test4
 
 - Bulleted
 - List
