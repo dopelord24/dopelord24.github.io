@@ -3,19 +3,19 @@
 My name is ...
 
 # Personal Information
-**First name**: Alexey
-**Last Name**: Mikhalkevich
-**Date of Birth**: 18.05.1999
-**Birth place**: Slutsk, Belarus.
+**First name**: Alexey<br>
+**Last Name**: Mikhalkevich<br>
+**Date of Birth**: 18.05.1999<br>
+**Birth place**: Slutsk, Belarus.<br>
 # Personality
--Communicative
--Disciplined
--Polite
--Hardworking
+-Communicative<br>
+-Disciplined<br>
+-Polite<br>
+-Hardworking<br>
 # Education
-2016-2020
-Belarusian State Agrarian Technical University
-Business and management faculty
+2016-2020<br>
+Belarusian State Agrarian Technical University<br>
+Business and management faculty<br>
 # Header 4
 test4
 
