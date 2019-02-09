@@ -8,10 +8,10 @@ My name is ...
 **Date of Birth**: 18.05.1999<br>
 **Birth place**: Slutsk, Belarus.<br>
 # Personality
--Communicative<br>
--Disciplined<br>
--Polite<br>
--Hardworking<br>
+- Communicative<br>
+- Disciplined<br>
+- Polite<br>
+- Hardworking<br>
 # Education
 2016-2020<br>
 Belarusian State Agrarian Technical University<br>
