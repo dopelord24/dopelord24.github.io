@@ -15,8 +15,7 @@ I am new to IT. When I was 13 i was interested in websites and i've create one o
 - Communicative<br>
 - Disciplined<br>
 - Polite<br>
-- Hardworking
-
+- Hardworking<br>
 ## Hobbies
 In my free time I listen to music. I love music. My favourite genre is Hip-Hop.<br>
 I watch basketball every season ,but I usually play basketball in summer.<br>
