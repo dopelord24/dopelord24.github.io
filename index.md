@@ -10,13 +10,13 @@ I'm a third-year student. Now I'm interested in learning C#. I consider it to be
 Belarusian State Agrarian Technical University<br>
 Business and management faculty<br>
 ## Experience
-  I am new to IT. When I was 13 i was interested in websites and i've create one on free-hosting.That's all my experience. Now my aim is to learn C#.
+I am new to IT. When I was 13 i was interested in websites and i've create one on free-hosting.That's all my experience. Now my aim is to learn C#.
 ## Personality
 - Communicative<br>
 - Disciplined<br>
 - Polite<br>
-- Hardworking<br>
+- Hardworking
 ## Hobbies
-  In my free time I listen to music. I love music. My favourite genre is Hip-Hop.
-  I watch basketball every season ,but I usually play basketball in summer
-  Sometimes i watch horror movies. 
+In my free time I listen to music. I love music. My favourite genre is Hip-Hop.<br>
+I watch basketball every season ,but I usually play basketball in summer.<br>
+Sometimes i watch horror movies.<br>
